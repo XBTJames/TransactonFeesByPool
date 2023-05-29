@@ -1,7 +1,7 @@
 # TransactonFeesByPool
 Jupyter Notebook that produces some metrics and visualizations for Bitcoin transaction fees, specifically the distribution of fees by pool
 
-This data was compliled via a selfhosted-instance of Mempool.space on an Umbrel. It is possible to use the https://mempool.space/ API, but I will warn you that it is specifically not designed for this kind of bulk block information download.
+This data was compliled via a self-hosted instance of Mempool.space on an Umbrel. It is possible to use the https://mempool.space/ API, but I will warn you that it is specifically not designed for this kind of bulk block information download.
 
 From the mempool.space API Documentation: "To return data for more than 10 blocks, consider becoming an enterprise sponsor."
 
